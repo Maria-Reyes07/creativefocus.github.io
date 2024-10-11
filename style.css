@@ -462,7 +462,7 @@ div.scroll-container img {
 /* Homepage */
 .bg-image {
   /* The image used */
-  background-image: url("images/The-City.jpeg");
+  background-image: url("The-City.jpeg");
   
   /* Add the blur effect */
   filter: blur(8px);
