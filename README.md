@@ -4,7 +4,7 @@
 Maria Reyes
 
 ## Hosting Link:
-maria-reyes07.github.io/creativefocus.github.io/
+https://maria-reyes07.github.io/creativefocus.github.io/
 
 ## Overview/Description
 This is a website for an inspired photographer. In the "About Me" tab you will get to learn about her experiences of being a photographer. What inspired her to become a photographer. 
