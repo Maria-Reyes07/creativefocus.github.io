@@ -21,6 +21,15 @@ You will learn the events she will take pictures for. And you will get her conta
     - Where each tab is a category of events.
 - Adding a payment section
 
+## Download Instructions:
+- Go to the repository's main page
+- Click the green Code button
+- Click Download ZIP from the menu
+- Place the file a folder
+- Then go to your files
+- Go to the folder you placed the files
+- click on the file you downloaded
+  
 ## Citation
 I did have help with coding certain things through these website and I used their style.
 
