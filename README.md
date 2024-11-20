@@ -30,8 +30,5 @@ You will learn the events she will take pictures for. And you will get her conta
 - Go to the folder you placed the files
 - click on the file you downloaded
   
-## Citation
-I did have help with coding certain things through these website and I used their style.
 
-  - https://github.com/jlop007/FreeCodeCamp-NewsFlash
-    - I used their blog coding and their nav bar coding
+
